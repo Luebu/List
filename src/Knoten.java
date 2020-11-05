@@ -18,7 +18,7 @@ public class Knoten {
         this.nachfolger = nachfolger;
     }
 
-    public void setinhalt(Aufgabe pInhalt) {
+    public void setInhalt(Aufgabe pInhalt) {
         inhalt = pInhalt;
     }
 
